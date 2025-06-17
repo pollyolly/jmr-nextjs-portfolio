@@ -1,11 +1,10 @@
-## Getting Started
+## JMR Next Js Portfolio
 
-First, run the development server:
-
+Run the development server:
 ```bash
 $npm run dev
 ```
-Server Running
+Server Running on localhost:
 ```
 ▲ Next.js 15.3.3 (Turbopack)
 - Local:        http://localhost:3000
